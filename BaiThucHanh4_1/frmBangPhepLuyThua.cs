@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace BaiThucHanh4_1
 {
-    public partial class frmBangLuyThua : Form
+    public partial class frmBangPhepLuyThua : Form
     {
         private char code = 'Z';
         private int n = 2;
@@ -28,13 +28,13 @@ namespace BaiThucHanh4_1
         private TextBox[] txtCot, txtDong;
         private TextBox[,] txtCell;
 
-        public frmBangLuyThua()
+        public frmBangPhepLuyThua()
         {
             InitializeComponent();
             TaoBangPhepToan(n);
         }
 
-        public frmBangLuyThua(char c, int n0)
+        public frmBangPhepLuyThua(char c, int n0)
         {
             code = c; n = n0; InitializeComponent();
             if (n > 20) TaoLuoi(n);

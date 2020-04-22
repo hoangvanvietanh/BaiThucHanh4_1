@@ -25,7 +25,7 @@ namespace BaiThucHanh4_1
         #endregion
 
         #region Các phương thức
-        private string Ten(char code)
+        public static String Ten(char code)
         {
             return (code == 'Z') ? "Vành Z" : "Trường Q";
         }

@@ -1,6 +1,6 @@
 ﻿namespace BaiThucHanh4_1
 {
-    partial class frmBangLuyThua
+    partial class frmBangPhepLuyThua
     {
         /// <summary>
         /// Required designer variable.

@@ -7,3 +7,14 @@ C:\Users\hoang\Source\Repos\hoangvanvietanh\BaiThucHanh4_1\BaiThucHanh4_1\obj\De
 C:\Users\hoang\Source\Repos\hoangvanvietanh\BaiThucHanh4_1\BaiThucHanh4_1\obj\Debug\BaiThucHanh4_1.csproj.CoreCompileInputs.cache
 C:\Users\hoang\Source\Repos\hoangvanvietanh\BaiThucHanh4_1\BaiThucHanh4_1\obj\Debug\BaiThucHanh4_1.exe
 C:\Users\hoang\Source\Repos\hoangvanvietanh\BaiThucHanh4_1\BaiThucHanh4_1\obj\Debug\BaiThucHanh4_1.pdb
+C:\Users\duyhi\Desktop\PullBMTT\BaiThucHanh4_1\BaiThucHanh4_1\obj\Debug\BaiThucHanh4_1.csprojAssemblyReference.cache
+C:\Users\duyhi\Desktop\PullBMTT\BaiThucHanh4_1\BaiThucHanh4_1\obj\Debug\BaiThucHanh4_1.frmTruongQp.resources
+C:\Users\duyhi\Desktop\PullBMTT\BaiThucHanh4_1\BaiThucHanh4_1\obj\Debug\BaiThucHanh4_1.frmVanhZn.resources
+C:\Users\duyhi\Desktop\PullBMTT\BaiThucHanh4_1\BaiThucHanh4_1\obj\Debug\BaiThucHanh4_1.MainForm.resources
+C:\Users\duyhi\Desktop\PullBMTT\BaiThucHanh4_1\BaiThucHanh4_1\obj\Debug\BaiThucHanh4_1.Properties.Resources.resources
+C:\Users\duyhi\Desktop\PullBMTT\BaiThucHanh4_1\BaiThucHanh4_1\obj\Debug\BaiThucHanh4_1.csproj.GenerateResource.cache
+C:\Users\duyhi\Desktop\PullBMTT\BaiThucHanh4_1\BaiThucHanh4_1\obj\Debug\BaiThucHanh4_1.exe
+C:\Users\duyhi\Desktop\PullBMTT\BaiThucHanh4_1\BaiThucHanh4_1\obj\Debug\BaiThucHanh4_1.pdb
+C:\Users\duyhi\Desktop\PullBMTT\BaiThucHanh4_1\BaiThucHanh4_1\bin\Debug\BaiThucHanh4_1.exe.config
+C:\Users\duyhi\Desktop\PullBMTT\BaiThucHanh4_1\BaiThucHanh4_1\bin\Debug\BaiThucHanh4_1.exe
+C:\Users\duyhi\Desktop\PullBMTT\BaiThucHanh4_1\BaiThucHanh4_1\bin\Debug\BaiThucHanh4_1.pdb

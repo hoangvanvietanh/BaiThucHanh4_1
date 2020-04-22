@@ -26,7 +26,7 @@ namespace BaiThucHanh4_1
 
 
             private TextBox[] txtCot , txtDong;
-        private TextBox[,] txtCell;
+            private TextBox[,] txtCell;
 
 
 
