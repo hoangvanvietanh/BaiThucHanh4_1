@@ -33,7 +33,6 @@
             this.mnuVanhZn = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuTruong = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuTruongQp = new System.Windows.Forms.ToolStripMenuItem();
-            this.aBCToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -42,8 +41,7 @@
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mnuVanh,
-            this.mnuTruong,
-            this.aBCToolStripMenuItem});
+            this.mnuTruong});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(800, 28);
@@ -80,12 +78,6 @@
             this.mnuTruongQp.Text = "Trường Qp";
             this.mnuTruongQp.Click += new System.EventHandler(this.mnuTruongQp_Click);
             // 
-            // aBCToolStripMenuItem
-            // 
-            this.aBCToolStripMenuItem.Name = "aBCToolStripMenuItem";
-            this.aBCToolStripMenuItem.Size = new System.Drawing.Size(51, 24);
-            this.aBCToolStripMenuItem.Text = "ABC";
-            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -111,7 +103,6 @@
         private System.Windows.Forms.ToolStripMenuItem mnuVanhZn;
         private System.Windows.Forms.ToolStripMenuItem mnuTruong;
         private System.Windows.Forms.ToolStripMenuItem mnuTruongQp;
-        private System.Windows.Forms.ToolStripMenuItem aBCToolStripMenuItem;
     }
 }
 
